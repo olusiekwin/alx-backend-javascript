@@ -59,7 +59,7 @@ Don't forget to run `npm install` when you have the `package.json`.
 
 ---
 **Note:** Ensure compliance with all requirements and thorough testing to ensure successful completion of the project.
-```
+
 This README provides comprehensive details about the project, including its objectives, requirements, setup instructions, and resource references. Make sure to follow the outlined guidelines and instructions for successful completion.
 ## Contributing
 
